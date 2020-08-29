@@ -41,7 +41,7 @@ def generate():
     n1 = int(e1.get())
     n2 = int(e2.get())
     if(not loc):
-        tk.Label(master,text = "Check the input").grid(row = 5, column = 1)
+        tk.Label(master,text = "Check the input").grid(row = 6, column = 2)
     else:
         loc = loc.replace('\\', '/')
         if(loc.endswith('/')):
@@ -58,7 +58,7 @@ def generate():
                     f.write(str(j)+e4.get()+str(i)+e4.get()+str(n1)+"\n")
             n1+=1
                     
-        tk.Label(master,text = "Success").grid(row = 5, column = 3)
+        tk.Label(master,text = "Success").grid(row = 6, column = 2)
 
 master = tk.Tk()
 master.geometry("400x200")
