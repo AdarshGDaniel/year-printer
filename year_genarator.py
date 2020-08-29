@@ -61,7 +61,7 @@ def generate():
         tk.Label(master,text = "Success").grid(row = 6, column = 2)
 
 master = tk.Tk()
-master.geometry("400x200")
+master.geometry("410x200")
 master.title("Dates generator")
 tk.Label(master, 
          text="Starting year : ").grid(row=0, column = 2)
