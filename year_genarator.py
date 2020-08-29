@@ -58,7 +58,7 @@ def generate():
                     f.write(str(j)+e4.get()+str(i)+e4.get()+str(n1)+"\n")
             n1+=1
                     
-        tk.Label(master,text = "Success").grid(row = 5, column = 1)
+        tk.Label(master,text = "Success").grid(row = 5, column = 3)
 
 master = tk.Tk()
 master.geometry("400x200")
