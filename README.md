@@ -10,7 +10,7 @@
 for windows:
     <b><em>Follow the <a href="http://www.tkdocs.com/tutorial/install.html" rel="noreferrer">Docs-Tkinter install for Python</a> (<a href="http://www.tkdocs.com/tutorial/install.html#installwin" rel="noreferrer">for Windows</a>):</em></b>
 </code></pre>
-<p>just run the year_generator.py after the installation</p>
+<p>just run the <b>year_generator.py</b> after the installation</p>
 <h4>Enter your starting year</h4>
 <h4>Enter the ending year</h4>
 <h4>Enter the location on the drive you want to save (eg: C:\user\Desktop or /root/Desktop)</h4>
