@@ -4,7 +4,7 @@
 <p>Note that this code prints the date in this following pattern : date-month-year</p>
 <p>Follow the instructions below to get the successful output</p>
 <h2>usage: </h2>
-<p>Install the Tkinter library using pip: </p>
+<p>Install the Tkinter library: </p>
 <pre><code>for linux:
     <b>sudo apt-get install python3-tk</b>
 for windows:
